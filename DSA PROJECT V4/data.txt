@@ -1,0 +1,16 @@
+
+Name : asd
+Class : asd
+Admission No. : 13
+Time served : 1s at counter 3 for finance things.
+Currently we've rejected 3 students.
+Name : asd
+Class : asd
+Admission No. : 132
+Time served : 1s at counter 2 for finance things.
+Currently we've rejected 5 students.
+Name : asd
+Class : sd
+Admission No. : 132
+Time served : 2s at counter 3 for administrative things.
+Currently we've rejected 6 students.
