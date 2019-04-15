@@ -2,6 +2,15 @@
 //Gabriel Wong p1638695
 //Adam Zuhaily p1739918
 
+/*
+Project was given for year 2 semester 2 dsa EST examinations.
+Project was expected to:
+
+Give a queue to students that require help.
+Call them to the respective counters when available.
+Record the time taken for service and the general assistance given.
+*/
+
 #include <conio.h>
 #include <stdio.h>
 #include <Windows.h>
@@ -334,7 +343,7 @@ void register_student_queue(int *h, int *ts,int *tc, string *name, string *cls, 
 		cout << "Please open another counter";
 		Sleep(1000);
 	}
-	else if (*ts >= 5) {	
+	else if (*ts >= 5) {
 		cout << "Please wait a moment, the queue is currently full." << endl;
 		++*r;
 		Sleep(1000);
